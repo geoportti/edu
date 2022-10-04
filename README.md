@@ -11,7 +11,8 @@ When creating a new issue, you should:
 1. give it a concise and descriptive title,
 2. possibly add more explanation to the issue as a comment,
 3. add possible labels and link the issue to the Project called "Geoportti Edu" from the panel on the right:
-  - ![image](https://user-images.githubusercontent.com/6659534/193860224-944917a4-1a96-4020-bb7a-bd71c1011691.png)
+
+![image](https://user-images.githubusercontent.com/6659534/193860224-944917a4-1a96-4020-bb7a-bd71c1011691.png)
 
 ## Following the progress of the project
 
